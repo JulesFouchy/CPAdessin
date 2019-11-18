@@ -11,7 +11,9 @@ void setup(){
 ```
 
 Tout ce que vous avez besoin de savoir pour aujourd'hui :
-  * pour dessiner un rectangle, c'est "rect(x, y , largeur, hauteur);" :warning: x et y c'est les coordonnées du coin en haut à gauche du rectangle, et le point (0, 0) ça correspond au coin en haut à gauche de la fenêtre de dessin.
+  * pour dessiner un rectangle, c'est "rect(x, y , largeur, hauteur);" 
+  
+  :warning: x et y c'est les coordonnées du coin en haut à gauche du rectangle, et le point (0, 0) ça correspond au coin en haut à gauche de la fenêtre de dessin.
   * pour choisir la couleur, avant la ligne "rect(x, y , largeur, hauteur);", il faut taper "fill(#D69595);" où le nombre, par exemple #D69595, on l'obtient grâce à l'outils sélecteur de couleur :
   <p align="left">
   <img src="img/color-picker-tool.png" height="800px">
