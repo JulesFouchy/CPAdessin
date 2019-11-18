@@ -8,6 +8,13 @@ void setup(){
   size(800,800);
   // Le code de dessin viendra ici
 }
+
+// Pour sauvegarder vos dessins, appuyez sur s !
+void keyPressed(){
+  if( key == 's' ){
+    save( "screenshots/"+year()+"_"+month()+"_"+day()+"_"+hour()+"_"+minute()+"_"+second()+".png") ;
+  }
+}
 ```
 
 Tout ce que vous avez besoin de savoir pour aujourd'hui :
