@@ -67,3 +67,11 @@ Et maintenant c'est parti ! Voilà plein de dessins, essayez de les reproduire :
   <p align="left">
   <img src="img/exo10.png" height="200px">
   </p>
+  
+   <p align="left">
+  <img src="img/exo11.png" height="200px">
+  </p>
+  
+   <p align="left">
+  <img src="img/exo12.png" height="200px">
+  </p>
